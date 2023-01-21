@@ -1,6 +1,6 @@
-# Project Title
+# AR Kitchen timer
 
-AR Kitchen timer - example of ARKit usage in iOS 15.
+Example of ARKit usage in iOS 15.
 
 ## Description
 
