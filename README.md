@@ -12,11 +12,10 @@ Example of ARKit usage in iOS 15.
 
 ## Authors
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> 
-
-[Sebastian Kotarski]()
-[@skotarski94](https://twitter.com/skotarski94)
+### Sebastian Kotarski
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/sebastian-kotarski-375253103/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([http://google.com.au/](https://twitter.com/skotarski94))
 
 ## License
 
