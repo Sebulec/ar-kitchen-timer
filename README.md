@@ -2,9 +2,8 @@
 
 Example of ARKit usage in iOS 15.
 
-## Description
-
-// Video
+## DEMO
+![ezgif-2-48d3d24823](https://user-images.githubusercontent.com/11884019/213867691-8dd1a26e-d351-4de0-a773-4f2e61987fa4.gif)
 
 ## Getting Started
 
