@@ -1,37 +1,14 @@
 # Project Title
 
-Simple overview of use/purpose.
+AR Kitchen timer - example of ARKit usage in iOS 15.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+// Video
 
 ## Getting Started
 
-### Dependencies
-
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
-
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+- Tested in XCode 14.2 with iPhone 11
 
 ## Authors
 
