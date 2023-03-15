@@ -149,7 +149,7 @@ extension ARViewContainer: TouchDelegate {
         guard let result = sceneView.session.raycast(raycastQuery).first else {
             return nil
         }
-                
+            
         sceneView.addTimer(worldCoord: SCNVector3Make(result.worldTransform.columns.3.x, result.worldTransform.columns.3.y, result.worldTransform.columns.3.z))
         
         return nil
